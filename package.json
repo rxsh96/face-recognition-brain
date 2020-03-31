@@ -1,7 +1,7 @@
 {
   "name": "face-recognition-brain",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "engines": {
    "node": "12.16.x"
   },
