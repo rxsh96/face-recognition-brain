@@ -10,7 +10,6 @@ import SignIn from './components/signIn/SignIn';
 import FaceRecognition from './components/faceRecognition/FaceRecognition';
 import './App.css';
 
-
 const particleOptions = {
   particles: {
     number: {
